@@ -9,6 +9,11 @@ public class SimpleTest {
     @Test
     void test0() {
         assertTrue(false);
-
     }
+
+    @Test
+    void test1() {
+        assertTrue(true);
+    }
+
 }
